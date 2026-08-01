@@ -108,6 +108,7 @@ Travaux réalisés :
 - Analyse fonctionnelle du système
 - Étude de l'interaction rail-route
 - Modélisation CAO des infrastructures
+- Découpe et montage manuel de la maquette
 - Conception d'un système de barrières automatiques avec Arduino
 
 
@@ -137,7 +138,7 @@ Travaux réalisés :
 [TODO : ajouter le lien GitHub]
 
 
-# 📈 Recherche actuelle
+# Recherche actuelle
 
 ## Analyse de performance des systèmes industriels complexes
 
@@ -154,7 +155,7 @@ Objectif :
 Développer des méthodes permettant d'analyser automatiquement le comportement et la performance de systèmes industriels soumis à des contraintes temporelles et opérationnelles.
 
 
-# 📚 Centres d'intérêt techniques
+# Centres d'intérêt techniques
 
 - Mobilité intelligente 🚗
 - Systèmes ferroviaires autonomes 🚆
@@ -164,9 +165,9 @@ Développer des méthodes permettant d'analyser automatiquement le comportement 
 - Modélisation mathématique des systèmes complexes
 
 
-# 📫 Me contacter
+# Me contacter
 
-LinkedIn : www.linkedin.com/in/joelthibaud
+LinkedIn : www.linkedin.com/in/joelthibaud 
 Email : ngueouodonfack@gmail.com 
 Portfolio :
 Tel: +33 7 76 41 25 16
@@ -175,8 +176,6 @@ Tel: +33 7 76 41 25 16
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=transparent)
 
-
-
-⭐ Merci d'avoir visité mon portfolio !
+Merci d'avoir visité mon portfolio !
 
 N'hésitez pas à explorer mes projets et à échanger autour de la mécatronique, de l'industrie intelligente et des systèmes complexes.

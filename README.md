@@ -1,48 +1,40 @@
-# Bonjour, je suis [Joel thbaud]
+# Bonjour, je suis Joel Thibaud 
 
 ## Ingénieur Mécatronique | Industrie 4.0 | Systèmes Intelligents | R&D Automobile
 
 Bienvenue sur mon portfolio GitHub !
 
-Je suis ingénieur en mécatronique spécialisé dans la **conception, la modélisation et l'analyse de performance des systèmes industriels complexes, conception mécanique et développement produit**.
+Je suis ingénieur en mécatronique spécialisé dans la **conception mécanique et développement produit, la modélisation et l'analyse de performance des systèmes industriels complexes**.
 
 J'ai récemment terminé mon **Master 2 Industrie 4.0 et Systèmes Intelligents à l'ENS Paris-Saclay**, je m'intéresse particulièrement aux systèmes mécatronique combinant :
 
-- ⚙️ Conception mécanique
-- 🔌 Systèmes embarqués
-- 🤖 Automatisation et contrôle
-- 🚗 Applications automobiles
-- 🚆 Systèmes ferroviaires intelligents
-- 📊 Modélisation formelle et analyse de performance
-- 🏭 Industrie 4.0 et systèmes à événements discrets
-
-
----
+- ⚙️ Conception mécanique;
+- 🔌 Systèmes embarqués;
+- 🤖 Automatisation et contrôle;
+- 🚗 Applications automobiles;
+- 🚆 Systèmes ferroviaires intelligents;
+- 📊 Modélisation formelle et analyse de performance;
+- 🏭 Industrie 4.0 et systèmes à événements discrets;
 
 # 🚀 À propos de moi
 
-Mon parcours combine la mécanique, l'électronique et l'informatique industrielle afin de concevoir des systèmes intelligents, fiables et performants.
+Ingénieur en mécatronique, je suis passionné par la R&D, l’industrie automobile, l’optimisation, la conception mécanique, l’innovation et la gestion de projets. Mon parcours combine plusieurs domaines tels que la mécanique, l'électronique et l'informatique afin de concevoir des systèmes intelligents, fiables et performants.
+Les expériences que j'ai acquis tout au long de ma formation lors des stages, m'ont permis de travailler sur :
 
-Mes expériences m'ont permis de travailler sur :
+- La conception CAO de pièces et systèmes mécaniques en tant que ingenieur dans un bureau d'études;
+- L'intégration mécatronique dans des projets académiques;
+- La modélisation de systèmes complexes;
+- La simulation et l'évaluation de performances;
+- Le développement de prototypes avec microcontrôleurs;
+- L'analyse de systèmes industriels utilisant des modèles formels via des automates;
 
-- La conception CAO de pièces et systèmes mécaniques
-- L'intégration mécatronique
-- La modélisation de systèmes complexes
-- La simulation et l'évaluation de performances
-- Le développement de prototypes avec microcontrôleurs
-- L'analyse de systèmes industriels utilisant des modèles formels
+ Mon objectif professionnel :
 
+> Évoluer comme Ingénieur R&D dans les domaines de la mécatronique dans les domaines comme l'automobile, le ferroviaire, l'aéronautique, des systèmes embarqués et de l'industrie.
 
-🎯 Mon objectif professionnel :
+# Mes Compétences techniques
 
-> Évoluer comme Ingénieur R&D dans les domaines de la mécatronique automobile, des systèmes embarqués et de l'industrie intelligente.
-
-
----
-
-# 🛠️ Compétences techniques
-
-## ⚙️ Conception mécanique
+## Conception mécanique
 
 - CATIA
 - SolidWorks
@@ -51,17 +43,15 @@ Mes expériences m'ont permis de travailler sur :
 - Dimensionnement et analyse fonctionnelle
 - Étude de résistance mécanique
 
-
-## 🤖 Automatisation & systèmes embarqués
+## Automatisation & systèmes embarqués
 
 - Arduino
 - Systèmes électroniques embarqués
 - Capteurs et actionneurs
 - Commande de systèmes automatisés
-- Prototypage rapide
+- Modélisation Prototypage des systèmes 
 
-
-## 🧮 Modélisation & simulation
+## Modélisation & simulation
 
 - Python
 - MATLAB / Simulink
@@ -71,19 +61,16 @@ Mes expériences m'ont permis de travailler sur :
 - Modélisation de chaînes logistiques complexes
 
 
-## 🚗 Domaines d'application
+## Domaines d'application
 
 - Automobile
 - Ferroviaire
 - Industrie 4.0
 - Systèmes cyber-physiques
 
-
----
-
 # 📂 Projets
 
-## 🚆 Modélisation d'un système ferroviaire intelligent - Moving Block / ETCS niveau 3
+## Modélisation d'un système ferroviaire intelligent - Moving Block / ETCS niveau 3
 
 ### Description
 
@@ -103,9 +90,6 @@ Objectifs :
 🔗 Repository :
 [TODO : ajouter le lien GitHub]
 
-
----
-
 # ⚓ Port Sec - Modélisation d'une plateforme logistique multimodale
 
 ## Projet mécatronique & Industrie 4.0
@@ -118,7 +102,6 @@ Conception d'un modèle fonctionnel d'un port sec intégrant les interactions en
 - Transport routier
 - Équipements automatisés
 - Systèmes mécatroniques
-
 
 Travaux réalisés :
 
@@ -135,9 +118,6 @@ Travaux réalisés :
 🔗 Repository :
 [TODO : ajouter le lien GitHub]
 
-
----
-
 # 🚗 Conception mécanique automobile
 
 ## Modélisation et étude de composants mécaniques
@@ -149,7 +129,6 @@ Travaux réalisés :
 - Études préliminaires de résistance
 - Optimisation de conception
 
-
 ### Outils
 
 `CATIA` `SolidWorks`
@@ -157,8 +136,6 @@ Travaux réalisés :
 🔗 Repository :
 [TODO : ajouter le lien GitHub]
 
-
----
 
 # 📈 Recherche actuelle
 
@@ -177,8 +154,6 @@ Objectif :
 Développer des méthodes permettant d'analyser automatiquement le comportement et la performance de systèmes industriels soumis à des contraintes temporelles et opérationnelles.
 
 
----
-
 # 📚 Centres d'intérêt techniques
 
 - Mobilité intelligente 🚗
@@ -189,29 +164,18 @@ Développer des méthodes permettant d'analyser automatiquement le comportement 
 - Modélisation mathématique des systèmes complexes
 
 
----
-
 # 📫 Me contacter
 
-LinkedIn :
-[Ton profil LinkedIn]
-
-Email :
-[Ton email]
-
-
+LinkedIn : www.linkedin.com/in/joelthibaud
+Email : ngueouodonfack@gmail.com 
 Portfolio :
-[Ton site personnel]
-
-
----
+Tel: +33 7 76 41 25 16
 
 # ⚡ Quelques chiffres
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=transparent)
 
 
----
 
 ⭐ Merci d'avoir visité mon portfolio !
 

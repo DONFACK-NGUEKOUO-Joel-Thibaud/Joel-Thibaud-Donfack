@@ -1,2 +1,218 @@
-# Joel-Thibaud-Donfack
-Portfolio Ingénieur en mécatronique
+# 👋 Bonjour, je suis [Ton Nom]
+
+## 🤖 Ingénieur Mécatronique | Industrie 4.0 | Systèmes Intelligents | R&D Automobile
+
+Bienvenue sur mon portfolio GitHub !
+
+Je suis ingénieur en mécatronique spécialisé dans la **conception, la modélisation et l'analyse de performance des systèmes industriels complexes**.
+
+Actuellement en **Master 2 Industrie 4.0 et Systèmes Intelligents à l'ENS Paris-Saclay**, je m'intéresse particulièrement aux systèmes cyber-physiques combinant :
+
+- ⚙️ Conception mécanique
+- 🔌 Systèmes embarqués
+- 🤖 Automatisation et contrôle
+- 🚗 Applications automobiles
+- 🚆 Systèmes ferroviaires intelligents
+- 📊 Modélisation formelle et analyse de performance
+- 🏭 Industrie 4.0 et systèmes à événements discrets
+
+
+---
+
+# 🚀 À propos de moi
+
+Mon parcours combine la mécanique, l'électronique et l'informatique industrielle afin de concevoir des systèmes intelligents, fiables et performants.
+
+Mes expériences m'ont permis de travailler sur :
+
+- La conception CAO de pièces et systèmes mécaniques
+- L'intégration mécatronique
+- La modélisation de systèmes complexes
+- La simulation et l'évaluation de performances
+- Le développement de prototypes avec microcontrôleurs
+- L'analyse de systèmes industriels utilisant des modèles formels
+
+
+🎯 Mon objectif professionnel :
+
+> Évoluer comme Ingénieur R&D dans les domaines de la mécatronique automobile, des systèmes embarqués et de l'industrie intelligente.
+
+
+---
+
+# 🛠️ Compétences techniques
+
+## ⚙️ Conception mécanique
+
+- CATIA
+- SolidWorks
+- Modélisation 3D
+- Assemblages mécaniques
+- Dimensionnement et analyse fonctionnelle
+- Étude de résistance mécanique
+
+
+## 🤖 Automatisation & systèmes embarqués
+
+- Arduino
+- Systèmes électroniques embarqués
+- Capteurs et actionneurs
+- Commande de systèmes automatisés
+- Prototypage rapide
+
+
+## 🧮 Modélisation & simulation
+
+- Python
+- MATLAB / Simulink
+- Automates temporisés
+- Systèmes à événements discrets
+- Analyse de performance
+- Modélisation de chaînes logistiques complexes
+
+
+## 🚗 Domaines d'application
+
+- Automobile
+- Ferroviaire
+- Industrie 4.0
+- Systèmes cyber-physiques
+
+
+---
+
+# 📂 Projets
+
+## 🚆 Modélisation d'un système ferroviaire intelligent - Moving Block / ETCS niveau 3
+
+### Description
+
+Projet de recherche autour de la génération automatique de modèles formels pour la vérification des systèmes ferroviaires complexes.
+
+Objectifs :
+
+- Modéliser les comportements dynamiques d'un système ferroviaire
+- Utiliser des automates temporisés pour représenter les contraintes temporelles
+- Vérifier les propriétés de sûreté et de performance
+
+
+### Technologies
+
+`Python` `Automates temporisés` `Systèmes à événements discrets` `Modélisation formelle`
+
+🔗 Repository :
+[TODO : ajouter le lien GitHub]
+
+
+---
+
+# ⚓ Port Sec - Modélisation d'une plateforme logistique multimodale
+
+## Projet mécatronique & Industrie 4.0
+
+### Description
+
+Conception d'un modèle fonctionnel d'un port sec intégrant les interactions entre :
+
+- Infrastructure ferroviaire
+- Transport routier
+- Équipements automatisés
+- Systèmes mécatroniques
+
+
+Travaux réalisés :
+
+- Analyse fonctionnelle du système
+- Étude de l'interaction rail-route
+- Modélisation CAO des infrastructures
+- Conception d'un système de barrières automatiques avec Arduino
+
+
+### Technologies
+
+`SolidWorks` `Arduino` `CAO` `Automatisation` `Analyse fonctionnelle`
+
+🔗 Repository :
+[TODO : ajouter le lien GitHub]
+
+
+---
+
+# 🚗 Conception mécanique automobile
+
+## Modélisation et étude de composants mécaniques
+
+Travaux réalisés :
+
+- Conception de pièces mécaniques
+- Assemblage de composants
+- Études préliminaires de résistance
+- Optimisation de conception
+
+
+### Outils
+
+`CATIA` `SolidWorks`
+
+🔗 Repository :
+[TODO : ajouter le lien GitHub]
+
+
+---
+
+# 📈 Recherche actuelle
+
+## Analyse de performance des systèmes industriels complexes
+
+Mes travaux portent sur :
+
+- La modélisation formelle des systèmes complexes
+- Les automates pondérés par intervalles
+- L'évaluation de coûts et performances
+- La reconfiguration des chaînes logistiques
+
+
+Objectif :
+
+Développer des méthodes permettant d'analyser automatiquement le comportement et la performance de systèmes industriels soumis à des contraintes temporelles et opérationnelles.
+
+
+---
+
+# 📚 Centres d'intérêt techniques
+
+- Mobilité intelligente 🚗
+- Systèmes ferroviaires autonomes 🚆
+- Industrie 4.0 🏭
+- Robotique 🤖
+- Intelligence artificielle appliquée aux systèmes industriels
+- Modélisation mathématique des systèmes complexes
+
+
+---
+
+# 📫 Me contacter
+
+LinkedIn :
+[Ton profil LinkedIn]
+
+Email :
+[Ton email]
+
+
+Portfolio :
+[Ton site personnel]
+
+
+---
+
+# ⚡ Quelques chiffres
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=transparent)
+
+
+---
+
+⭐ Merci d'avoir visité mon portfolio !
+
+N'hésitez pas à explorer mes projets et à échanger autour de la mécatronique, de l'industrie intelligente et des systèmes complexes.

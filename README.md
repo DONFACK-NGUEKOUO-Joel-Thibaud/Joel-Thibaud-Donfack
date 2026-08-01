@@ -1,12 +1,12 @@
-# 👋 Bonjour, je suis [Ton Nom]
+# Bonjour, je suis [Joel thbaud]
 
-## 🤖 Ingénieur Mécatronique | Industrie 4.0 | Systèmes Intelligents | R&D Automobile
+## Ingénieur Mécatronique | Industrie 4.0 | Systèmes Intelligents | R&D Automobile
 
 Bienvenue sur mon portfolio GitHub !
 
-Je suis ingénieur en mécatronique spécialisé dans la **conception, la modélisation et l'analyse de performance des systèmes industriels complexes**.
+Je suis ingénieur en mécatronique spécialisé dans la **conception, la modélisation et l'analyse de performance des systèmes industriels complexes, conception mécanique et développement produit**.
 
-Actuellement en **Master 2 Industrie 4.0 et Systèmes Intelligents à l'ENS Paris-Saclay**, je m'intéresse particulièrement aux systèmes cyber-physiques combinant :
+J'ai récemment terminé mon **Master 2 Industrie 4.0 et Systèmes Intelligents à l'ENS Paris-Saclay**, je m'intéresse particulièrement aux systèmes mécatronique combinant :
 
 - ⚙️ Conception mécanique
 - 🔌 Systèmes embarqués

@@ -87,7 +87,10 @@ Objectifs :
 
 `Python` `Automates temporisés` `Systèmes à événements discrets` `Modélisation formelle`
 
-🔗 Repository : https://github.com/DONFACK-NGUEKOUO-Joel-Thibaud/Joel-Thibaud-Donfack/tree/main/img 
+📂 **GitHub Repository**
+
+➡️ **Accéder au projet :**  
+https://github.com/DONFACK-NGUEKOUO-Joel-Thibaud/Joel-Thibaud-Donfack/tree/main/img
 
 # ⚓ Port Sec - Modélisation d'une plateforme logistique multimodale
 

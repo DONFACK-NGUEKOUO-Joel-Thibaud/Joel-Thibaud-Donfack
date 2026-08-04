@@ -97,7 +97,7 @@ SolidWorks, SolidWorks Assembly, SolidWorks Simulation, CAO 3D, Conception méca
 
 ## 🔗 Accéder au projet
 
-➡️ **Voir le projet sur GitHub :**
+**Voir le projet sur GitHub :**
 
 **https://github.com/DONFACK-NGUEKOUO-Joel-Thibaud/Conception-et-validation-d-un-systeme-de-suspension-automobile.git**
 

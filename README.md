@@ -16,7 +16,7 @@ J'ai récemment terminé mon **Master 2 Industrie 4.0 et Systèmes Intelligents 
 - 📊 Modélisation formelle et analyse de performance;
 - 🏭 Industrie 4.0 et systèmes à événements discrets;
 
-# 🚀 À propos de moi
+# À propos de moi
 
 Ingénieur en mécatronique, je suis passionné par la R&D, l’industrie automobile, l’optimisation, la conception mécanique, l’innovation et la gestion de projets. Mon parcours combine plusieurs domaines tels que la mécanique, l'électronique et l'informatique afin de concevoir des systèmes intelligents, fiables et performants.
 Les expériences que j'ai acquis tout au long de ma formation lors des stages, m'ont permis de travailler sur :
@@ -95,7 +95,7 @@ Le système conçu comprend une **roue automobile**, un **amortisseur hydrauliqu
 
 SolidWorks, SolidWorks Assembly, SolidWorks Simulation, CAO 3D, Conception mécanique, Dimensionnement, Analyse par éléments finis (FEA).
 
-## 🔗 Accéder au projet
+## Accéder au projet
 
 **Voir le projet sur GitHub :**
 
@@ -118,11 +118,11 @@ Développer des méthodes permettant d'analyser automatiquement le comportement 
 
 # Centres d'intérêt techniques
 
-- Mobilité intelligente 🚗
-- Systèmes ferroviaires autonomes 🚆
-- Industrie 4.0 🏭
-- Robotique 🤖
-- Intelligence artificielle appliquée aux systèmes industriels
+- Mobilité intelligente;
+- Systèmes ferroviaires autonomes; 
+- Industrie 4.0;
+- Robotique; 
+- Intelligence artificielle appliquée aux systèmes industriels.
 
 # Me contacter
 

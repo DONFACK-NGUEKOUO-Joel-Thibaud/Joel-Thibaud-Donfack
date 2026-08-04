@@ -70,75 +70,36 @@ Les expériences que j'ai acquis tout au long de ma formation lors des stages, m
 
 # 📂 Projets
 
-## Modélisation d'un système ferroviaire intelligent - Moving Block / ETCS niveau 3
+# Conception et validation mécanique d'un système de suspension automobile
 
-### Description
+## Description
 
-Projet de recherche autour de la génération automatique de modèles formels pour la vérification des systèmes ferroviaires complexes.
+C'est un projet de conception mécanique réalisé sous **SolidWorks** consistant à développer un système complet de suspension automobile. Le projet couvre l'ensemble du cycle de conception, depuis la modélisation des composants jusqu'à l'assemblage final et la validation mécanique par simulation.
 
-Objectifs :
+Le système conçu comprend une **roue automobile**, un **amortisseur hydraulique avec membrane, piston et ressort hélicoïdal**, ainsi qu'une **plateforme support** représentant le châssis du véhicule. Une analyse statique par éléments finis a ensuite été réalisée afin d'étudier la répartition des contraintes et le comportement mécanique de l'ensemble sous chargement.
 
-- Modéliser les comportements dynamiques d'un système ferroviaire
-- Utiliser des automates temporisés pour représenter les contraintes temporelles
-- Vérifier les propriétés de sûreté et de performance
+## Travaux réalisés
 
+- Analyse du besoin et définition de l'architecture du système de suspension.
+- Conception CAO des différents composants :
+  - Roue automobile ;
+  - Amortisseur hydraulique (corps, piston, membrane, tige et ressort) ;
+  - Plateforme support et interfaces de fixation.
+- Dimensionnement et modélisation 3D des pièces sous SolidWorks.
+- Réalisation de l'assemblage complet et définition des liaisons mécaniques.
+- Mise en place d'une étude statique sous **SolidWorks Simulation**.
+- Analyse des contraintes de Von Mises et identification des zones les plus sollicitées.
+- Validation du comportement mécanique de l'assemblage sous chargement.
 
-### Technologies
+## Technologies
 
-`Python` `Automates temporisés` `Systèmes à événements discrets` `Modélisation formelle`
+SolidWorks, SolidWorks Assembly, SolidWorks Simulation, CAO 3D, Conception mécanique, Dimensionnement, Analyse par éléments finis (FEA).
 
-📂 **GitHub Repository**
+## 🔗 Accéder au projet
 
-➡️ **Accéder au projet :**  
-https://github.com/DONFACK-NGUEKOUO-Joel-Thibaud/Joel-Thibaud-Donfack/tree/main/img
+➡️ **Voir le projet sur GitHub :**
 
-# ⚓ Port Sec - Modélisation d'une plateforme logistique multimodale
-
-## Projet mécatronique & Industrie 4.0
-
-### Description
-
-Conception d'un modèle fonctionnel d'un port sec intégrant les interactions entre :
-
-- Infrastructure ferroviaire
-- Transport routier
-- Équipements automatisés
-- Systèmes mécatroniques
-
-Travaux réalisés :
-
-- Analyse fonctionnelle du système
-- Étude de l'interaction rail-route
-- Modélisation CAO des infrastructures
-- Découpe et montage manuel de la maquette
-- Conception d'un système de barrières automatiques avec Arduino
-
-
-### Technologies
-
-`SolidWorks` `Arduino` `CAO` `Automatisation` `Analyse fonctionnelle`
-
-🔗 Repository :
-[TODO : ajouter le lien GitHub]
-
-# 🚗 Conception mécanique automobile
-
-## Modélisation et étude de composants mécaniques
-
-Travaux réalisés :
-
-- Conception de pièces mécaniques
-- Assemblage de composants
-- Études préliminaires de résistance
-- Optimisation de conception
-
-### Outils
-
-`CATIA` `SolidWorks`
-
-🔗 Repository :
-[TODO : ajouter le lien GitHub]
-
+**https://github.com/DONFACK-NGUEKOUO-Joel-Thibaud/Conception-et-validation-d-un-systeme-de-suspension-automobile.git**
 
 # Recherche actuelle
 
@@ -151,11 +112,9 @@ Mes travaux portent sur :
 - L'évaluation de coûts et performances
 - La reconfiguration des chaînes logistiques
 
-
 Objectif :
 
 Développer des méthodes permettant d'analyser automatiquement le comportement et la performance de systèmes industriels soumis à des contraintes temporelles et opérationnelles.
-
 
 # Centres d'intérêt techniques
 
@@ -164,8 +123,6 @@ Développer des méthodes permettant d'analyser automatiquement le comportement 
 - Industrie 4.0 🏭
 - Robotique 🤖
 - Intelligence artificielle appliquée aux systèmes industriels
-- Modélisation mathématique des systèmes complexes
-
 
 # Me contacter
 
@@ -173,10 +130,6 @@ LinkedIn : www.linkedin.com/in/joelthibaud
 Email : ngueouodonfack@gmail.com 
 Portfolio :
 Tel: +33 7 76 41 25 16
-
-# ⚡ Quelques chiffres
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=transparent)
 
 Merci d'avoir visité mon portfolio !
 

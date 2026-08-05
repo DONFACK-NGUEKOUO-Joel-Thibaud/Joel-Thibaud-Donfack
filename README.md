@@ -70,15 +70,15 @@ Les expériences que j'ai acquis tout au long de ma formation lors des stages, m
 
 # 📂 Projets
 
-# Conception et validation mécanique d'un système de suspension automobile
+# 1- Conception et validation mécanique d'un système de suspension automobile
 
-## Description
+## a) Description
 
 C'est un projet de conception mécanique réalisé sous **SolidWorks** consistant à développer un système complet de suspension automobile. Le projet couvre l'ensemble du cycle de conception, depuis la modélisation des composants jusqu'à l'assemblage final et la validation mécanique par simulation.
 
 Le système conçu comprend une **roue automobile**, un **amortisseur hydraulique avec membrane, piston et ressort hélicoïdal**, ainsi qu'une **plateforme support** représentant le châssis du véhicule. Une analyse statique par éléments finis a ensuite été réalisée afin d'étudier la répartition des contraintes et le comportement mécanique de l'ensemble sous chargement.
 
-## Travaux réalisés
+## b) Travaux réalisés
 
 - Analyse du besoin et définition de l'architecture du système de suspension.
 - Conception CAO des différents composants :
@@ -91,7 +91,7 @@ Le système conçu comprend une **roue automobile**, un **amortisseur hydrauliqu
 - Analyse des contraintes de Von Mises et identification des zones les plus sollicitées.
 - Validation du comportement mécanique de l'assemblage sous chargement.
 
-## Technologies
+## c) Technologies
 
 SolidWorks, SolidWorks Assembly, SolidWorks Simulation, CAO 3D, Conception mécanique, Dimensionnement, Analyse par éléments finis (FEA).
 
@@ -100,6 +100,39 @@ SolidWorks, SolidWorks Assembly, SolidWorks Simulation, CAO 3D, Conception méca
 **Voir le projet sur GitHub :**
 
 **https://github.com/DONFACK-NGUEKOUO-Joel-Thibaud/Conception-et-validation-d-un-systeme-de-suspension-automobile.git**
+
+# 2- Conception CAO d'un moteur thermique 4 cylindres
+
+## a) Description
+
+Projet de conception mécanique réalisé sous **CATIA V5** consistant à modéliser les principaux composants cinématiques d'un moteur thermique 4 cylindres. Chaque pièce a été dimensionnée puis conçue individuellement avant d'être intégrée dans un assemblage complet reproduisant le fonctionnement du mécanisme bielle-manivelle.
+
+L'objectif du projet était de développer un modèle numérique fidèle permettant de représenter les mouvements relatifs des différents composants et de valider leur intégration au sein de l'ensemble mécanique.
+
+## b) Travaux réalisés
+
+- Étude du mécanisme bielle-manivelle d'un moteur thermique.
+- Dimensionnement des principaux composants.
+- Conception CAO sous CATIA V5 des différentes pièces :
+  - Piston ;
+  - Bielle ;
+  - Chapeau de bielle ;
+  - Axe de piston ;
+  - Vilebrequin.
+- Réalisation des assemblages mécaniques;
+- Définition des contraintes d'assemblage (rotations, translations et liaisons mécaniques);
+- Vérification du bon fonctionnement cinématique du mécanisme;
+- Validation de l'intégration des composants dans le moteur.
+
+## c) Technologies
+
+CATIA V5, conception mécanique, CAO 3D, assemblage mécanique, cinématique des mécanismes, dimensionnement.
+
+## 🔗 Accéder au projet
+
+➡️ **Voir le projet sur GitHub :**
+
+**https://github.com/DONFACK-NGUEKOUO-Joel-Thibaud/four-cylinder-engine-design**
 
 # Recherche actuelle
 

@@ -97,9 +97,8 @@ SolidWorks, SolidWorks Assembly, SolidWorks Simulation, CAO 3D, Conception méca
 
 ## Accéder au projet
 
-**Voir le projet sur GitHub :**
-
 [Voir le projet sur GitHub](https://github.com/DONFACK-NGUEKOUO-Joel-Thibaud/Conception-et-validation-d-un-systeme-de-suspension-automobile)
+
 # 2- Conception CAO d'un moteur thermique 4 cylindres
 
 ## a) Description
@@ -127,10 +126,11 @@ L'objectif du projet était de développer un modèle numérique fidèle permett
 
 CATIA V5, conception mécanique, CAO 3D, assemblage mécanique, cinématique des mécanismes, dimensionnement.
 
-## 🔗 Accéder au projet
+## Accéder au projet
 
-**Voir le projet sur GitHub :**
+
 [Voir le projet sur GitHub](https://github.com/DONFACK-NGUEKOUO-Joel-Thibaud/Conception-CAO-d-un-moteur-thermique-4-cylindres)
+
 # Recherche mené 
 
 ## Évaluation des performances et pilotage supervisé des chaînes logistiques à l'aide des automates temporisés et l'algèbre des dioide

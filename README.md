@@ -99,8 +99,7 @@ SolidWorks, SolidWorks Assembly, SolidWorks Simulation, CAO 3D, Conception méca
 
 **Voir le projet sur GitHub :**
 
-**https://github.com/DONFACK-NGUEKOUO-Joel-Thibaud/Conception-et-validation-d-un-systeme-de-suspension-automobile.git**
-
+[Voir le projet sur GitHub](https://github.com/DONFACK-NGUEKOUO-Joel-Thibaud/Conception-et-validation-d-un-systeme-de-suspension-automobile)
 # 2- Conception CAO d'un moteur thermique 4 cylindres
 
 ## a) Description
@@ -131,9 +130,7 @@ CATIA V5, conception mécanique, CAO 3D, assemblage mécanique, cinématique des
 ## 🔗 Accéder au projet
 
 **Voir le projet sur GitHub :**
-
-**(https://github.com/DONFACK-NGUEKOUO-Joel-Thibaud/Conception-CAO-d-un-moteur-thermique-4-cylindres.git)**
-
+[Voir le projet sur GitHub](https://github.com/DONFACK-NGUEKOUO-Joel-Thibaud/Conception-CAO-d-un-moteur-thermique-4-cylindres)
 # Recherche mené 
 
 ## Évaluation des performances et pilotage supervisé des chaînes logistiques à l'aide des automates temporisés et l'algèbre des dioide
@@ -158,8 +155,8 @@ Développer des méthodes permettant d'analyser automatiquement le comportement 
 
 # Me contacter
 
-LinkedIn : www.linkedin.com/in/joelthibaud 
-Email : ngueouodonfack@gmail.com 
+LinkedIn : [Joel Thibaud](https://www.linkedin.com/in/joelthibaud/)
+Email : <ngueouodonfack@gmail.com>
 Tel: +33 7 76 41 25 16
 
 Merci d'avoir visité mon portfolio !

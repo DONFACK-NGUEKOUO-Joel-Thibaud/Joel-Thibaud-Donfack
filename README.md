@@ -8,13 +8,13 @@ Je suis ingénieur en mécatronique spécialisé dans la **conception mécanique
 
 J'ai récemment terminé mon **Master 2 Industrie 4.0 et Systèmes Intelligents à l'ENS Paris-Saclay**, je m'intéresse particulièrement aux systèmes mécatronique combinant :
 
-- ⚙️ Conception mécanique;
-- 🔌 Systèmes embarqués;
-- 🤖 Automatisation et contrôle;
-- 🚗 Applications automobiles;
-- 🚆 Systèmes ferroviaires intelligents;
-- 📊 Modélisation formelle et analyse de performance;
-- 🏭 Industrie 4.0 et systèmes à événements discrets;
+-  Conception mécanique;
+-  Systèmes embarqués;
+-  Automatisation et contrôle;
+-  Applications automobiles;
+-  Systèmes ferroviaires intelligents;
+-  Modélisation formelle et analyse de performance;
+-  Industrie 4.0 et systèmes à événements discrets;
 
 # À propos de moi
 
@@ -68,7 +68,7 @@ Les expériences que j'ai acquis tout au long de ma formation lors des stages, m
 - Industrie 4.0
 - Systèmes cyber-physiques
 
-# 📂 Projets
+# 📂 Mes Projets
 
 # 1- Conception et validation mécanique d'un système de suspension automobile
 
@@ -130,40 +130,36 @@ CATIA V5, conception mécanique, CAO 3D, assemblage mécanique, cinématique des
 
 ## 🔗 Accéder au projet
 
-➡️ **Voir le projet sur GitHub :**
+**Voir le projet sur GitHub :**
 
 **(https://github.com/DONFACK-NGUEKOUO-Joel-Thibaud/Conception-CAO-d-un-moteur-thermique-4-cylindres.git)**
 
-# Recherche actuelle
+# Recherche mené 
 
-## Analyse de performance des systèmes industriels complexes
+## Évaluation des performances et pilotage supervisé des chaînes logistiques à l'aide des automates temporisés et l'algèbre des dioide
 
-Mes travaux portent sur :
+Mes travaux on portés sur :
 
-- La modélisation formelle des systèmes complexes
-- Les automates pondérés par intervalles
-- L'évaluation de coûts et performances
-- La reconfiguration des chaînes logistiques
+- La modélisation formelle des systèmes complexes;
+- Les automates pondérés par intervalles;
+- L'évaluation de coûts et performances;
+- La reconfiguration des chaînes logistiques.
 
 Objectif :
 
-Développer des méthodes permettant d'analyser automatiquement le comportement et la performance de systèmes industriels soumis à des contraintes temporelles et opérationnelles.
+Développer des méthodes permettant d'analyser automatiquement le comportement et la performance de systèmes industriels soumis à des variations inattendues des contraintes temporelles, monaitaires et opérationnelles.
 
 # Centres d'intérêt techniques
 
-- Mobilité intelligente;
-- Systèmes ferroviaires autonomes; 
+- Conception mecanique
+- Mobilité intelligente (automobile, ferroviaire, etc);
 - Industrie 4.0;
-- Robotique; 
-- Intelligence artificielle appliquée aux systèmes industriels.
+- Systèmes complexes et multi-physiques.
 
 # Me contacter
 
 LinkedIn : www.linkedin.com/in/joelthibaud 
 Email : ngueouodonfack@gmail.com 
-Portfolio :
 Tel: +33 7 76 41 25 16
 
 Merci d'avoir visité mon portfolio !
-
-N'hésitez pas à explorer mes projets et à échanger autour de la mécatronique, de l'industrie intelligente et des systèmes complexes.
